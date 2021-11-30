@@ -1,0 +1,22 @@
+{
+    "locations": [
+        {
+            "id": 1,
+            "address": "101 Summit Drive",
+            "sqFootage": 2500,
+            "handicapAccessible": true
+        },
+        {
+            "id": 2,
+            "address": "103 Summit Drive",
+            "sqFootage": 3000,
+            "handicapAccessible": true
+        },
+        {
+            "id": 3,
+            "address": "105 Summit Drive",
+            "sqFootage": 3500,
+            "handicapAccessible": false
+        }
+    ]
+}
